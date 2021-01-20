@@ -157,6 +157,6 @@ comando para atualizar o repositório local com o repositório remoto
 
 # Scenes (caso de uso) - parte VI
 
-- Recuperar um estado do projeto anterior ao anterior
+- Recuperar um estado do projeto anterior ao estado atual do projeto.
 
 Desenvolvido por &copy;Rocketseat explicado por Mayk Brito, esse material foi retirado de uma video aula *https://www.youtube.com/watch?v=2alg7MQ6_sI* produzida pelo Mayk Brito e &copy;Rocketseat a cópia e reprodução é apenas por interesse de aprendizado recomendo demais que façam essa aula bem interessante para praticar, algumas modificações são de minha autoria para fixar o aprendizado! 
