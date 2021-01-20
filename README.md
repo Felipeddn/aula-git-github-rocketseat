@@ -176,6 +176,11 @@ o comando para retornar em um estado de arquivo anterior é:
 comando para recuperar um arquivo excluido:
 **git checkout --** nome_do_arquivo_para_ser_recuperado
 
+se for feito um commit não é possivel recuperar o arquivo apagado com o comando acima
+
+para recuperar após um commit é necessario passar um argumento, o comando fica assim para recuperar após um commit:
+**git checkout --** numero_do_codigo_em_um_estado_de_arquivo_em_que_ele_existe nome_do_arquivo
+
 
 
 Desenvolvido por &copy;Rocketseat explicado por Mayk Brito, esse material foi retirado de uma video aula *https://www.youtube.com/watch?v=2alg7MQ6_sI* produzida pelo Mayk Brito e &copy;Rocketseat a cópia e reprodução é apenas por interesse de aprendizado recomendo demais que façam essa aula bem interessante para praticar, algumas modificações são de minha autoria para fixar o aprendizado! 
