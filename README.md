@@ -159,6 +159,9 @@ comando para atualizar o repositório local com o repositório remoto
 
 - Recuperar um estado do projeto anterior ao estado atual do projeto.
 
-este arquivo está todo cagado
+use o comando git a seguir mais o número do momento do código que deseja recuperar, é possivel ver o momento usando um `git log`, para retornar um arquivo para o momento desejado, a descrição é uma forma de ver esse momento por isso esses commits são importantes e devem descrever bem as mudanças:
+o comando para retornar em um estado de arquivo anterior é: 
+**git checkout** numero_do_estado_do_arquivo
+
 
 Desenvolvido por &copy;Rocketseat explicado por Mayk Brito, esse material foi retirado de uma video aula *https://www.youtube.com/watch?v=2alg7MQ6_sI* produzida pelo Mayk Brito e &copy;Rocketseat a cópia e reprodução é apenas por interesse de aprendizado recomendo demais que façam essa aula bem interessante para praticar, algumas modificações são de minha autoria para fixar o aprendizado! 
