@@ -163,5 +163,19 @@ use o comando git a seguir mais o número do momento do código que deseja recup
 o comando para retornar em um estado de arquivo anterior é: 
 **git checkout** numero_do_estado_do_arquivo
 
+# Revisando comandos - parte III
+
+* `git clone` // comando para copiar um repositorio remoto em um diretório local
+* `git pull` // atualiza o repositório local com as mudanças do repositório remoto
+* `git checkout` + numero_de_um_estado_do_arquivo // recuperar um estado do arquivo
+
+# Scenes (caso de uso) - parte VII
+
+- Recuperar algo excluído
+
+comando para recuperar um arquivo excluido:
+**git checkout --** nome_do_arquivo_para_ser_recuperado
+
+
 
 Desenvolvido por &copy;Rocketseat explicado por Mayk Brito, esse material foi retirado de uma video aula *https://www.youtube.com/watch?v=2alg7MQ6_sI* produzida pelo Mayk Brito e &copy;Rocketseat a cópia e reprodução é apenas por interesse de aprendizado recomendo demais que façam essa aula bem interessante para praticar, algumas modificações são de minha autoria para fixar o aprendizado! 
